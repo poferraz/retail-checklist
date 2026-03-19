@@ -1,4 +1,4 @@
-# Retail-Checklist
+# retail-checklist
 
 <p align="center">
   <strong>retail-checklist - A web application</strong>
